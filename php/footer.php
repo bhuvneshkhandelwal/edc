@@ -16,18 +16,18 @@
           <div class="mdl-mega-footer--email" align="left">
             <p class="mdl-typography--font-light">Contact:<br>IIT Delhi,Hauz Khas<br>
             <span>
-				<img src="images/icon/cellphone.png">+91 9650337651<br>
+				<img src="images/icon/cellphone.png">+91-9650337651<br>
 				<img src="images/icon/email.png">abhijeetmalhotra@edciitd.com</p>
 			</span>
           </div>
 
           <div class="mdl-mega-footer--bottom-section">
-		  <a class="android-link mdl-typography--font-light" href="">Home</a>
-          <a class="android-link mdl-typography--font-light" href="">Our Team</a>
-          <a class="android-link mdl-typography--font-light" href="">Events</a>
-          <a class="android-link mdl-typography--font-light" href="">Blog</a>
-          <a class="android-link mdl-typography--font-light" href="">Sponsors</a>
-          <a class="android-link mdl-typography--font-light" href="">Contact</a>
+		  <a class="android-link mdl-typography--font-light" href="index.php">Home</a>
+          <a class="android-link mdl-typography--font-light" href="team.php">Our Team</a>
+          <a class="android-link mdl-typography--font-light" href="events.php">Events</a>
+          <a class="android-link mdl-typography--font-light" href="blog.php">Blog</a>
+          <a class="android-link mdl-typography--font-light" href="sponsors.php">Sponsors</a>
+          <a class="android-link mdl-typography--font-light" href="contact.php">Contact</a>
           </div>
 		  
 		  <div class="mdl-mega-footer--middle-section">
