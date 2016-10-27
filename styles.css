@@ -379,7 +379,7 @@ a img{
 }
 
 .android-more-section {
-  padding: 80px 0;
+  padding: 10px 0;
   max-width: 1044px;
   margin-left: auto;
   margin-right: auto;
@@ -387,7 +387,7 @@ a img{
 
   .android-more-section .android-section-title {
     margin-left: 12px;
-    padding-bottom: 24px;
+    padding-bottom: 20px;
   }
 
 .android-card-container {
@@ -415,12 +415,13 @@ a img{
   .android-card-container .mdl-card__supporting-text {
     height: auto;
     color: black;
-    padding-bottom: 56px;
+
   }
 
   .android-card-container .mdl-card__actions {
     position: absolute;
     bottom: 0;
+      padding-bottom: 20px;
   }
 
   .android-card-container .mdl-card__actions a {
