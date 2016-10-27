@@ -1,22 +1,7 @@
 <?php
 include "php/top.php";
 ?>
-
-		<!-- android-be-together-section is css having sourse to cover file image -->
-        <div class="android-be-together-section mdl-typography--text-center">
-          <div class="logo-font android-slogan">Entrepreneurship Development Cell</div>
-          <div class="logo-font android-sub-slogan">Welcome to eDC IIT Delhi!!</div>
-          <div class="logo-font android-create-character"></div>
-		  
-          <a href="#and-more">
-            <button class="android-fab mdl-button mdl-button--colored mdl-js-button mdl-button--fab mdl-js-ripple-effect">
-              <i class="material-icons">expand_more</i>
-            </button>
-          </a>  
-		</div>
-    
-  
-        <div class="android-more-section" id="events">
+<div class="android-more-section" id="events">
           <div class="android-section-title mdl-typography--display-1-color-contrast">Events</div>
           <div class="android-card-container mdl-grid">
             <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
@@ -39,7 +24,7 @@ include "php/top.php";
 
             <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
               <div class="mdl-card__media">
-                <img src="images/more-from-4.png">
+                <img src="images/startup_showcase.jpg">
               </div>
               <div class="mdl-card__title">
                  <h4 class="mdl-card__title-text">Startup Showcase</h4>
@@ -75,9 +60,6 @@ include "php/top.php";
 			
           </div>
         </div>
-		
-	
-			
 <?php
 	include "php/bottom.php";
 ?>
